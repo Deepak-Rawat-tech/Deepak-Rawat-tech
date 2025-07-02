@@ -32,6 +32,4 @@ Python + NLP + OpenAI API
 
 ---
 
-## 📈 GitHub Stats
 
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepak-Rawat-tech&show_icons=true&theme=tokyonight)
